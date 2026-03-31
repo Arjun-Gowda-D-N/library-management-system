@@ -1,0 +1,7 @@
+101,Max,John,True
+1001,The Great Gatsby,Scott Fitzgerald,Fiction,True
+1003,To Kill a Mockingbird,Harper Lee,Fiction,True
+1004,1984,George Orwell,Fiction,True
+1005,Pride and Prejudice,Jane Austen,Fiction,True
+1006,The Catcher in the Rye,J.D. Salinger,Fiction,True
+1007,The great Monkey king,Jane Settler,Fiction,True
