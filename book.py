@@ -16,5 +16,5 @@ class Book:
 
     @staticmethod
     def from_file_format(data):
-        book_id, title, author, available = data.strip().split(',')
+        book_id, title, author, available = data.strip().split(',', 3)
         return Book(book_id, title, author, available == 'True')
