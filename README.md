@@ -1,4 +1,4 @@
-# Library Management System
+# Library Management System using Python
 
 ##  Project Purpose
 This project is a Python-based Library Management System designed to manage books and users efficiently.
@@ -26,4 +26,8 @@ This project is a Python-based Library Management System designed to manage book
 ##  Example Usage
 User selects option 1 → Adds book  
 User selects option 4 → Issues book  
+
+##  Author
+Name: Arjungowda Devarahalli Nagaraj
+Student ID: GH1047219 
 
