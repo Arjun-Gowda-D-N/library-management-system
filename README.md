@@ -28,6 +28,6 @@ User selects option 1 → Adds book
 User selects option 4 → Issues book  
 
 ##  Author
-Name: Arjungowda Devarahalli Nagaraj
-Student ID: GH1047219 
+- Name: Arjungowda Devarahalli Nagaraj
+- Student ID: GH1047219 
 
