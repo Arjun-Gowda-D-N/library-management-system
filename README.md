@@ -1,4 +1,4 @@
-# Library Management System using Python
+# B100 Library Management System using Python
 
 ##  Project Purpose
 This project is a Python-based Library Management System designed to manage books and users efficiently.
